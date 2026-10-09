@@ -103,7 +103,7 @@ Here are some of the areas I'm interested in building and contributing to:
 
 * **LinkedIn:** [Siva Balu](https://www.linkedin.com/in/siva-balu-381766191/)
 * **GitHub:** [siva0812-git](https://github.com/siva0812-git)
-* **Email:** [siva.balu4061@gmail.com](mailto:siva.balu4061@gmail.com)
+* **Email:** [sivabalu0812@gmail.com](mailto:sivabalu0812@gmail.com)
 
 ---
 
